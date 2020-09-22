@@ -1,0 +1,1 @@
+print("please write each file in different file")
